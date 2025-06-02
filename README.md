@@ -113,6 +113,10 @@ Le système utilise la notation POSIX pour les fuseaux horaires:
 - **Londres**: `GMT0BST,M3.5.0/1,M10.5.0`
 
 ## 🖥️ Captures d'Écran de l'Interface Web
+![image](https://github.com/user-attachments/assets/2507a863-4018-4646-ac88-d6cf95d908b3) ![image](https://github.com/user-attachments/assets/cd7d94ea-4cb8-43ed-9e5d-d3102d7e00eb)
+![image](https://github.com/user-attachments/assets/2fcafbbe-8b93-4cfb-a85e-acd8d284e48c)
+
+
 
 ### Page de Statut
 - Statut d'irrigation en temps réel
