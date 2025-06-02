@@ -6,10 +6,6 @@ An intelligent irrigation system based on ESP8266 with web interface for program
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blue.svg)](https://www.arduino.cc/)
 [![ESP8266](https://img.shields.io/badge/ESP8266-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp8266)
 
-![image](https://github.com/user-attachments/assets/4db0aeb7-0176-4362-8801-bc144c1cd17d)
-![image](https://github.com/user-attachments/assets/fd1bb439-24c1-4162-bde8-3599d041ab0e)
-![image](https://github.com/user-attachments/assets/b432e233-3a41-48c6-907d-93fb21eea746)
-
 
 
 ## ✨ Features
@@ -107,6 +103,11 @@ The system uses POSIX timezone notation:
 - **London**: `GMT0BST,M3.5.0/1,M10.5.0`
 
 ## 🖥️ Web Interface Screenshots
+![image](https://github.com/user-attachments/assets/4db0aeb7-0176-4362-8801-bc144c1cd17d)
+![image](https://github.com/user-attachments/assets/fd1bb439-24c1-4162-bde8-3599d041ab0e)
+![image](https://github.com/user-attachments/assets/b432e233-3a41-48c6-907d-93fb21eea746)
+
+
 
 ### Status Page
 - Real-time irrigation status
